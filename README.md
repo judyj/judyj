@@ -13,9 +13,10 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - ⚡ Fun fact: ...
+![photo](https://github.com/judyj/personal/blob/master/cartoon_me.jpeg | width=100)
 -->
 
-![photo](https://github.com/judyj/personal/blob/master/cartoon_me.jpeg =250x)
+<img src="https://github.com/judyj/personal/blob/master/cartoon_me.jpeg" alt="picture of me" width="100"> 
 
 - 😄 Pronouns: she/her
 
