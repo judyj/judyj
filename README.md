@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 <img src="https://github.com/judyj/personal/blob/master/cartoon_me.jpeg" alt="picture of me" width="100"> 
 
-- 😄 Pronouns: she/her
+My pronouns are: she/her
 
 Want to learn about me,  [look here](https://github.com/judyj/personal/blob/master/portfolio.md)
 Have a great day!
