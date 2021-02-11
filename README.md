@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 My pronouns are she/her
 
-Want to learn about me,  [look here](https://github.com/judyj/personal/blob/master/portfolio.md)!
+Want to learn more about me,  [look here](https://github.com/judyj/personal/blob/master/portfolio.md)!
 Have a great day!
 
 
